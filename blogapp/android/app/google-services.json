@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "37565381239",
+    "project_id": "flutr-blog",
+    "storage_bucket": "flutr-blog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37565381239:android:5e130a9645bbaf35772472",
+        "android_client_info": {
+          "package_name": "com.example.blogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37565381239-jblkkqnq3tva09n9ulv24klf0h8006n2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKq9UKD8oK3kbW1fqCF_3uNYU37CwXTtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37565381239-jblkkqnq3tva09n9ulv24klf0h8006n2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
